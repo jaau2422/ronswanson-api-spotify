@@ -1,4 +1,4 @@
-###### Spotify Music Review Playlist Creator
+###### Spotify Music Review Playlist Creator SPOTIFY VICE
 
 This App can be used to create a playlist based on the last music reviews from the guardian.
 
